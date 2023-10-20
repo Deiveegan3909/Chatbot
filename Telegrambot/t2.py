@@ -4,7 +4,7 @@ from typing import Final
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN: Final = '6650586511:AAHq8CcX_4NrDUQSa_xcmFFWx3WgSZm1wcE'
+TOKEN: Final = 'Enter the Token'
 BOT_USERNAME: Final = '@My_Telechatbot'
 
 # Commands
